@@ -3,7 +3,7 @@ USU Catalog Scraper - Couchdb Uploader
 
 ### How to Install
 1. You need node && couchdb installed
-2. Clone this repo `https://github.com/cadew/usu-catalog-couchdb.git`
+2. Clone this repo `git clone https://github.com/cadew/usu-catalog-couchdb.git`
 3. Run `npm install`
 4. Run the program by typing `node app.js`
 
